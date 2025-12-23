@@ -1,0 +1,16 @@
+; Corporate theme
+[Theme]
+DisplayName=Corporate Theme
+
+[Control Panel\Desktop]
+Wallpaper=C:\ProgramData\CorpTheme\CorpWallpaper.jpg
+TileWallpaper=0
+WallpaperStyle=10
+
+[VisualStyles]
+Path=%SystemRoot%\resources\themes\aero\aero.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+
+[Sounds]
+SchemeName=No Sounds
